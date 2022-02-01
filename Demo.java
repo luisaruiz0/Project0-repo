@@ -7,6 +7,7 @@ public class Demo
 {
     public static void main(String[] args)
     {
+        ///new person
         Person p= new Person("",0,"");
         p.setName("Peter");
         p.setAge(20);
@@ -20,7 +21,7 @@ public class Demo
         r.setFavoriteFood("Pizza");
         System.out.println(r);
 
-        
+        //new superhero
         SuperHero g= new SuperHero("George",24,"spatgehtti","Gravityman",
         "controling the force of gravity","See you in Space");
         System.out.println(g);
