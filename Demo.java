@@ -11,7 +11,7 @@ public class Demo
         Person p= new Person("",0,"");
         p.setName("Peter");
         p.setAge(20);
-        p.setFavoriteFood("Hamburgers");
+        p.setFavoriteFood("chiceken nuggests");
         System.out.println(p);
         
         
